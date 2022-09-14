@@ -31,7 +31,6 @@
 
 <!DOCTYPE html>
 <html>
-
 <body>
 	<h2>Welcome To GeeksforGeeks</h2>
 	
