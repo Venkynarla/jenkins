@@ -62,8 +62,8 @@
 	
 	<!-- Header Section -->
 	<header>
-		<div class="head1">GeeksforGeeks</div>
-		<div class="head2">A computer science portal for geeks</div>
+		<div class="head1">SAI KRISHNA</div>
+		<div class="head2">created this web application</div>
 	</header>
 	
 	<!-- Menu Navigation Bar -->
@@ -78,7 +78,7 @@
 	
 	<!-- Body section -->
 	<main class = "body_sec">
-		<section id="Content">
+		<section id="sai krishna is an 8th class student who created this web page istead of venkat">
 			<h3>Content section</h3>
 		</section>
 	</main>
