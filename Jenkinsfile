@@ -14,12 +14,12 @@ pipeline {
             }
             stage('Deploy') {
                   steps {
-                        echo "Deploying in Staging Area"
+                        echo "Deploying in Staging environment"
                   }
             }
-            stage('Deploy Production') {
+            stage('Deploy to Prod') {
                   steps {
-                        echo "Deploying in Production Area"
+                        echo "Deploying in Prod environment"
                   }
             }
       }
