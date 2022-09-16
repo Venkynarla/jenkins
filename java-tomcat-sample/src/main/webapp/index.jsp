@@ -77,9 +77,14 @@
 	</nav>
 	
 	<!-- Body section -->
-	<main class = "hi friends if you are able to see this message then you are succeed in deploying this application on staging environment stay tuned for latest updates thank you let's meet again">
+	<main class = content_sec>
 		<section id="section">
 			<h3>DEPLOYING PIPELINE ARTIFACTS ON TOMACT-SERVER</h3>
+			</html>
+		        </body>
+	                 "hi friends if you are able to see this message then you are succeed in deploying this application on staging environment stay tuned for latest updates thank you let's meet again"
+	</html>
+	</body>
 		</section>
 	</main>
 	
