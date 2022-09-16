@@ -85,13 +85,15 @@
 
 <head>
 	<!-- this is a sample web page -->
+	This is a sample web page
 	<!--in devloping process....................-->
+	in devloping process .................!
 	
 	<title>achieved through jenkins pipeline jobs</title>
 </head>
 
 <body>
-	<!--Hi!folks welcome!,friends if you are able to see this page/message then all of your builds are successful and all projectsare built successfully and the pipe line has executed successfully and your application has deployed to staging and production environment,so thank you friends see you in the next updated pipeline build,thankyou have anice day!..-->
+Hi!folks welcome!,friends if you are able to see this page/message then all of your builds are successful and all projectsare built successfully and the pipe line has executed successfully and your application has deployed to staging and production environment,so thank you friends see you in the next updated pipeline build,thankyou have anice day!
 </body>
 
 </html>
