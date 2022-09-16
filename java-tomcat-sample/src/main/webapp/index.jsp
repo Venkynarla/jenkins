@@ -79,7 +79,7 @@
 	<!-- Body section -->
 	<main class = "hi friends if you are able to see this message then you are succeed in deploying this application on staging environment stay tuned for latest updates thank you let's meet again">
 		<section id="section">
-			<h3>DEPLOYING PIPELINE ARTIFACTS ON TOMACT SERVER</h3>
+			<h3>DEPLOYING PIPELINE ARTIFACTS ON TOMACT-SERVER</h3>
 		</section>
 	</main>
 	
