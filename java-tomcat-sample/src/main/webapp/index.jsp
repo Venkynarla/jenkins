@@ -5,7 +5,7 @@
 	<style>
 		.head1 {
 			font-size:40px;
-			color:#009900;
+			color:#19aab4;
 			font-weight:bold;
 		}
 		.head2 {
@@ -22,9 +22,9 @@
 		.menu {
 			position: sticky;
 			top: 0;
-			background-color: #009900;
+			background-color: #1adfd5;
 			padding:10px 0px 10px 0px;
-			color:white;
+			color:rgb(216, 58, 169);
 			margin: 0 auto;
 			overflow: hidden;
 		}
@@ -62,7 +62,7 @@
 	
 	<!-- Header Section -->
 	<header>
-		<div class="head1">SAI KRISHNA</div>
+		<div class="head1">VENKAT NARLA</div>
 		<div class="head2">created this web application</div>
 	</header>
 	
@@ -77,13 +77,13 @@
 	</nav>
 	
 	<!-- Body section -->
-	<main class = "body_sec">
-		<section id="sai krishna is an 8th class student who created this web page istead of venkat">
-			<h3>Content section</h3>
+	<main class = "hi friends if you are able to see this message then you are succeed in deploying this application on staging environment stay tuned for latest updates thank you let's meet again">
+		<section id="section">
+			<h3>DEPLOYING PIPELINE ARTIFACTS ON TOMACT SERVER</h3>
 		</section>
 	</main>
 	
 	<!-- Footer Section -->
-	<footer>Footer Section</footer>
+	<footer>SUCCESSFULLY DEPLOYED APPLICATION</footer>
 </body>
 </html>
