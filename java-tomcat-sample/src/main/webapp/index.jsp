@@ -79,13 +79,23 @@
 	<!-- Body section -->
 	<main class = content_sec>
 		<section id="section">
-			<h3>DEPLOYING PIPELINE ARTIFACTS ON TOMACT-SERVER</h3>
-			</html>
-		        </body>
-	                 "hi friends if you are able to see this message then you are succeed in deploying this application on staging environment stay tuned for latest updates thank you let's meet again"
-	</html>
-	</body>
+			<h3>DEPLOYING WEB APPLICATION ON TOMCAT SERVERS</h3>
 		</section>
+		<html>
+
+<head>
+	<!-- this is a sample web page -->
+	<!--in devloping process.....................-->
+	
+	<title>achieved through jenkins pipeline jobs</title>
+</head>
+
+<body>
+	<!--Hi!folks welcome!,friends if you are able to see this page/message then all of your builds are successful and all projectsare built successfully and the pipe line has executed successfully and your application has deployed to staging and production environment,so thank you friends see you in the next updated pipeline build,thankyou have anice day!..-->
+</body>
+
+</html>
+
 	</main>
 	
 	<!-- Footer Section -->
