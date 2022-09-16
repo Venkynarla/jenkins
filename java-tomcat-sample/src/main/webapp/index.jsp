@@ -85,7 +85,7 @@
 
 <head>
 	<!-- this is a sample web page -->
-	<!--in devloping process.....................-->
+	<!--in devloping process....................-->
 	
 	<title>achieved through jenkins pipeline jobs</title>
 </head>
